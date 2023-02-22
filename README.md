@@ -1,5 +1,5 @@
 # CRUD-API-SPRING-BOOT
-conceptual project for making RSET API for CRUD operations  
+conceptual project for making REST API for CRUD operations  
 1. Add data into DB By Using API
 ![Screenshot (455)](https://user-images.githubusercontent.com/72995943/220587486-d735c275-d6f0-4c77-8bf8-22139d52884d.png)
 
